@@ -1,6 +1,12 @@
 {
-  "name": "maxawesometheme",
-  "displayName": "MaxAwesomeTheme",
+  "name": "phoenix_mates_professional_dark",
+  "displayName": "PhoenixMates - Professional Dark",
+  "author": "Anas Alhariri (Max)",
+  "publisher": "PhoenixMates Inc.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark"
+  },
   "description": "My own custom professional theme to show functions, constants, variables, properties, classes, values, keys, objects, instances, control keywords (Like: return, if, while, etc.)",
   "version": "0.0.1",
   "engines": {
