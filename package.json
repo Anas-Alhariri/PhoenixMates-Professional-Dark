@@ -2,7 +2,7 @@
   "name": "phoenixmatesprofessionaldark",
   "displayName": "PhoenixMates - Professional Dark",
   "author": "Anas Alhariri (Max)",
-  "publisher": "PhoenixMates Technologies Inc.",
+  "publisher": "PhoenixMatesTechnologiesInc",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -11,6 +11,7 @@
   "pricing": "Free",
   "description": "My own custom professional theme to show functions, constants, variables, properties, classes, values, keys, objects, instances, control keywords (Like: return, if, while, etc.)",
   "version": "0.0.1",
+  "icon": "PhoenixMates.png",
   "engines": {
     "vscode": "^1.80.0"
   },
