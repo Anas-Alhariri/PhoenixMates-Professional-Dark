@@ -1,8 +1,9 @@
 {
-  "name": "phoenix_mates_professional_dark",
+  "name": "phoenixmatesprofessionaldark",
   "displayName": "PhoenixMates - Professional Dark",
   "author": "Anas Alhariri (Max)",
-  "publisher": "PhoenixMates Inc.",
+  "publisher": "PhoenixMates Technologies Inc.",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark"
