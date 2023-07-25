@@ -1,0 +1,21 @@
+{
+  "name": "maxawesometheme",
+  "displayName": "MaxAwesomeTheme",
+  "description": "My own custom professional theme to show functions, constants, variables, properties, classes, values, keys, objects, instances, control keywords (Like: return, if, while, etc.)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Professional Max Theme - PhoenixMates",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Professional Max Theme - PhoenixMates-color-theme.json"
+      }
+    ]
+  }
+}
