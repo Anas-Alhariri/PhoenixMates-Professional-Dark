@@ -1,28 +1,35 @@
-# Welcome to your VS Code Extension
+# PhoenixMates - Professional Dark Theme
 
-## What's in the folder
+## Introduction
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Professional Max Theme - PhoenixMates-color-theme.json` - the color theme definition file.
+This is a custom Visual Studio Code theme that combines the best elements from multiple themes to provide clarity and ease of use. It aims to improve readability and reduce confusion by using distinct colors for different elements like objects, variables, constants, functions, classes, attributes, and more.
 
-## Get up and running straight away
+## Motivation
 
-* Press `F5` to open a new window with your extension loaded.
-* Open `File > Preferences > Color Themes` and pick your color theme.
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
+I found myself frequently switching between themes because while some provided clarity, they often used the same color for different elements, causing confusion. So, I decided to create a custom theme that incorporates my favorite color patterns from the themes I've used in the past.
 
-## Make changes
+The result is a theme that is easy on the eyes and makes reading and writing code a breeze. Most importantly, it clearly highlights different syntax elements, making it easy to distinguish between variables, constants, functions, objects, classes, attributes, and more.
 
-* Changes to the theme file are automatically applied to the Extension Development Host window.
+## Installation
 
-## Adopt your theme to Visual Studio Code
+1. Open the Extensions sidebar in VS Code. `View → Extensions`
+2. Search for `PhoenixMates - Professional Dark`, and install it.
+3. After installation, open the Command Palette `Ctrl + Shift + P` (`Cmd + Shift + P` on macOS)
+4. Select `Preferences: Color Theme`, then choose `PhoenixMates - Professional Dark` from the list.
 
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
 
-To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
+![Theme Preview](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark/blob/main/preview%201.png)
+![Theme Preview](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark/blob/main/preview%202.png)
+## Feedback
 
-## Install your extension
+I hope you find this extension useful. If you have any suggestions or feedback, please feel free to email me at [PhoenixMates@outlook.com](mailto:PhoenixMates@outlook.com).
 
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+Enjoy coding 🎉!
+
+**Cheers 🥂**
+
+## For more information
+
+* [Visual Studio Code's Marketplace](https://marketplace.visualstudio.com/items?itemName=PhoenixMatesTechnologiesInc.phoenixmatesprofessionaldark)
+* [Github Repository](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark)
+* [PhoenixMates.ca](https://www.phoenixmates.ca/)
