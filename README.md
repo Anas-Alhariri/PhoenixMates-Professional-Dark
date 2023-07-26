@@ -17,6 +17,8 @@ The result is a theme that is easy on the eyes and makes reading and writing cod
 3. After installation, open the Command Palette `Ctrl + Shift + P` (`Cmd + Shift + P` on macOS)
 4. Select `Preferences: Color Theme`, then choose `PhoenixMates - Professional Dark` from the list.
 
+
+![Theme Preview](https://i.imgur.com/6m3W3pJ.png)
 ## Feedback
 
 I hope you find this extension useful. If you have any suggestions or feedback, please feel free to email me at [PhoenixMates@outlook.com](mailto:PhoenixMates@outlook.com).
@@ -27,8 +29,8 @@ Enjoy coding 🎉!
 
 ## For more information
 
-* [Visual Studio Code's Marketplace](http://code.visualstudio.com/docs/languages/markdown)
+* [Visual Studio Code's Marketplace](https://marketplace.visualstudio.com/items?itemName=PhoenixMatesTechnologiesInc.phoenixmatesprofessionaldark)
 * [Github Repository](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark)
-* [PhoenixMates.ca](https://phoenixmates.ca/)
+* [PhoenixMates.ca](https://www.phoenixmates.ca/)
 
 
