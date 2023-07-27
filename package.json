@@ -10,7 +10,7 @@
   },
   "pricing": "Free",
   "description": "My own custom professional theme to show functions, constants, variables, properties, classes, values, keys, objects, instances, control keywords (Like: return, if, while, etc.)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "PhoenixMates.png",
   "engines": {
     "vscode": "^1.80.0"

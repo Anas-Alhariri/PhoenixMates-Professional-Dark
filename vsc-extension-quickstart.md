@@ -18,8 +18,8 @@ The result is a theme that is easy on the eyes and makes reading and writing cod
 4. Select `Preferences: Color Theme`, then choose `PhoenixMates - Professional Dark` from the list.
 
 
-![Theme Preview](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark/blob/main/preview%201.png)
-![Theme Preview](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark/blob/main/preview%202.png)
+![Theme Preview](https://drummond.web-dns1.com:2083/cpsess6536210852/viewer/home%2fphoeni14%2fpublic_html%2fimages%2fGitHub_Images/preview%201.png)
+![Theme Preview](https://drummond.web-dns1.com:2083/cpsess6536210852/viewer/home%2fphoeni14%2fpublic_html%2fimages%2fGitHub_Images/preview%202.png)
 ## Feedback
 
 I hope you find this extension useful. If you have any suggestions or feedback, please feel free to email me at [PhoenixMates@outlook.com](mailto:PhoenixMates@outlook.com).
