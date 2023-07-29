@@ -54,10 +54,11 @@
 		"statusBar.debuggingBackground": "#0a1016",
 		"statusBar.foreground": "#6e7d9abb",
 		"statusBar.noFolderBackground": "#0a1016",
-		"tab.activeBackground": "#0e141a",
-		"tab.activeBorderTop": "#ff006a",
+		//
+		"tab.activeBorderTop": "#65d9ef",
+		//
+		"tab.activeForeground": "#fff",
 		"tab.border": "#00000000",
-		"tab.inactiveBackground": "#0e141a",
 		"tab.inactiveForeground": "#6e7d9abb",
 		"terminalCursor.foreground": "#ff006a",
 		"titleBar.activeBackground": "#0a1016",
@@ -66,7 +67,13 @@
 		"titleBar.inactiveBackground": "#060c12",
 		"titleBar.inactiveForeground": "#6e7d9aaa",
 		"widget.shadow": "#ffffff09",
-		"window.activeBorder": "#0e141a"
+		"window.activeBorder": "#0e141a",
+		"tab.activeBackground": "#121a26",
+		"tab.inactiveBackground": "#202e42",
+		//
+		"tab.activeBorder": "#65d9ef",
+		"terminal.background": "#061019",
+		//
 	},
 	"tokenColors": [
 		{
@@ -81,7 +88,11 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#515F8F"
+				"foreground": "#39557b",
+				// "foreground": "#81818165",
+				// "foreground": "#80ff0065",
+				// "foreground": "#6dd90065",
+				// "foreground": "#08490086",
 			}
 		},
 		{
@@ -129,7 +140,6 @@
 			"scope": "variable",
 			"settings": {
 				"foreground": "#F8F8F2",
-				"fontStyle": ""
 			}
 		},
 		{
@@ -177,6 +187,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#FD971F",
+				// "foreground": "#ff6fe7",
 				"fontStyle": "italic"
 			}
 		},
@@ -212,6 +223,23 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"foreground": "#66D9EF",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "variable.other.readwrite",
+			"settings": {
+				"foreground": "#fd971e",
+				// "foreground": "#66D9EF",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "variable.other.property",
+			"settings": {
+				"foreground": "#00e49c",
+				// "foreground": "#00d18f",
+				// "foreground": "#66D9EF",
 				"fontStyle": "italic"
 			}
 		},
@@ -422,10 +450,6 @@
 			"settings": {
 				"fontStyle": "bold"
 			}
-		},
-		{
-			"scope": "comment",
-			"settings": {}
 		},
 		{
 			"scope": [
