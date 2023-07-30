@@ -1,7 +1,5 @@
 # PhoenixMates - Professional Dark Theme
 
-![PhoenixMates](./assets/PhoenixMates_Bird.png)
-
 ## Introduction
 
 This is a custom Visual Studio Code theme that combines the best elements from multiple themes to provide clarity and ease of use. It aims to improve readability and reduce confusion by using distinct colors for different elements like objects, variables, constants, functions, classes, attributes, and more.
