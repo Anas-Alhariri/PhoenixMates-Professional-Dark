@@ -1,6 +1,6 @@
 # PhoenixMates - Professional Dark Theme
 
-![PhenixMates Technologies Inc.](./assets/PhoenixMates_logo_and_name.png)
+![PhoenixMates](./assets/PhoenixMates_Bird.png)
 
 ## Introduction
 
@@ -36,4 +36,4 @@ Enjoy coding 🎉!
 * [Github Repository](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark)
 * [PhoenixMates.ca](https://www.phoenixmates.ca/)
 
-![PhoenixMates](./assets/PhoenixMates_Bird.png)
+![PhenixMates Technologies Inc.](./assets/PhoenixMates_logo_and_name.png)
