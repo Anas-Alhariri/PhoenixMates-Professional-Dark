@@ -1,5 +1,7 @@
 # PhoenixMates - Professional Dark Theme
 
+![PhenixMates Technologies Inc.](./assets/PhoenixMates_logo_and_name.png)
+
 ## Introduction
 
 This is a custom Visual Studio Code theme that combines the best elements from multiple themes to provide clarity and ease of use. It aims to improve readability and reduce confusion by using distinct colors for different elements like objects, variables, constants, functions, classes, attributes, and more.
@@ -17,9 +19,9 @@ The result is a theme that is easy on the eyes and makes reading and writing cod
 3. After installation, open the Command Palette `Ctrl + Shift + P` (`Cmd + Shift + P` on macOS)
 4. Select `Preferences: Color Theme`, then choose `PhoenixMates - Professional Dark` from the list.
 
+![Theme Preview](./assets/preview_1.png)
+![Theme Preview](./assets/preview_2.png)
 
-![Theme Preview](https://phoenixmates.com/images/preview_1.png)
-![Theme Preview](https://phoenixmates.com/images/preview_2.png)
 ## Feedback
 
 I hope you find this extension useful. If you have any suggestions or feedback, please feel free to email me at [PhoenixMates@outlook.com](mailto:PhoenixMates@outlook.com).
@@ -33,3 +35,5 @@ Enjoy coding 🎉!
 * [Visual Studio Code's Marketplace](https://marketplace.visualstudio.com/items?itemName=PhoenixMatesTechnologiesInc.phoenixmatesprofessionaldark)
 * [Github Repository](https://github.com/Anas-Alhariri/PhoenixMates-Professional-Dark)
 * [PhoenixMates.ca](https://www.phoenixmates.ca/)
+
+![PhoenixMates](./assets/PhoenixMates_Bird.png)
